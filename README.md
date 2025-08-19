@@ -3,7 +3,7 @@
 ## Reinforcement Learning Beyond Explicit Verifiable Signals
 
 ### Exploring Intrinsic Certainty 
-- sdf
+- Learning to Reason without External Rewards[[paper]](https://arxiv.org/pdf/2505.19590?)[[code]](https://github.com/sunblaze-ucb/Intuitor)
 ### Power of Seeking Consensus
 ### Self-Driven Learning Paradigm
 ### Internal Signal as an Extra Addition
