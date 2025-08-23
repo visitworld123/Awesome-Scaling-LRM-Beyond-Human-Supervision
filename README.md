@@ -1,18 +1,44 @@
 # Awesome-Scaling-LRM-Beyond-Verifiable-Truths
 
-## 💡 Reinforcement Learning Beyond Explicit Verifiable Signals
+## 💡 Large Reasoning Model Scaling Beyond Limited Verifiable Annotation
 
 ### Exploring Intrinsic Certainty 
-- Learning to Reason without External Rewards <a href="https://arxiv.org/pdf/2505.19590"><img src="https://img.shields.io/badge/arxiv-2505.19590-silver" alt="Paper"></a><a href="https://github.com/sunblaze-ucb/Intuitor"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+- Learning to Reason without External Rewards 
+<a href="https://arxiv.org/pdf/2505.19590"><img src="https://img.shields.io/badge/arxiv-2505.19590-silver" alt="Paper"></a>
+<a href="https://github.com/sunblaze-ucb/Intuitor"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
 
 ### Power of Seeking Consensus
 ### Self-Driven Learning Paradigm
 ### Internal Signal as an Extra Addition
 
-## 🛠️ Reinforcement Learning Beyond Easy Verifiable Tasks
+## 🛠️ Large Reasoning Model Scaling Beyond Explicit Verifiable Signal
 ### Extra Verifier Provide Incentive Signal
+
+
 #### LLM as a Verifier
+- Crossing the Reward Bridge: Expanding RL with Verifiable Rewards Across Diverse Domains
+<a href="https://arxiv.org/pdf/2503.23829"><img src="https://img.shields.io/badge/arxiv-2503.23829-silver" alt="Paper"></a>
+<a href="https://huggingface.co/collections/virtuoussy/rlvr-67ea349b086e3511f86d1c1f"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- Continuous Self-Improvement of Large Language Models by Test-time Training with Verifier-Driven Sample Selection
+<a href="https://arxiv.org/pdf/2505.19475"><img src="https://img.shields.io/badge/arxiv-2505.19475-silver" alt="Paper"></a>
+- SSR-Zero: Simple Self-Rewarding Reinforcement Learning for Machine Translation
+<a href="https://arxiv.org/pdf/2505.16637"><img src="https://img.shields.io/badge/arxiv-2505.16637-silver" alt="Paper"></a>
+<a href="https://github.com/Kelaxon/SSR-Zero"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+<a href="https://huggingface.co/collections/wjyccs/ssr-zero-6830189a8d2fd6fc7ce6fba6"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- ZeroGUI: Automating Online GUI Learning at Zero Human Cost
+<a href="https://arxiv.org/pdf/2505.23762"><img src="https://img.shields.io/badge/arxiv-2505.23762-silver" alt="Paper"></a>
+<a href="https://github.com/OpenGVLab/ZeroGUI"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+<a href="https://huggingface.co/collections/OpenGVLab/zerogui-68388cb7dbf608133c4b5fb2"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- Learning to Reason for Factuality
+<a href="https://arxiv.org/pdf/2508.05618?"><img src="https://img.shields.io/badge/arxiv-2508.05618-silver" alt="Paper"></a>
+- ReasonFlux-PRM: Trajectory-Aware PRMs for Long Chain-of-Thought Reasoning in LLMs
+<a href="https://arxiv.org/pdf/2506.18896"><img src="https://img.shields.io/badge/arxiv-2506.18896-silver" alt="Paper"></a>
+<a href="https://github.com/Gen-Verse/ReasonFlux"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+<a href="https://huggingface.co/collections/Gen-Verse/reasonflux-coder-6833109ed9300c62deb32c6b"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+
 #### Reward Model as a Verifier
+
+
 ### Reference Answer Provide Incentive Signal
 ### Reinforcement Learning Beyond Post-training
 
