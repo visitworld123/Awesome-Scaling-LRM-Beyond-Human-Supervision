@@ -37,6 +37,30 @@
 <a href="https://huggingface.co/collections/Gen-Verse/reasonflux-coder-6833109ed9300c62deb32c6b"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
 
 #### Reward Model as a Verifier
+- Seed1. 5-thinking: Advancing superb reasoning models with reinforcement learning
+<a href="https://arxiv.org/pdf/2504.13914?"><img src="https://img.shields.io/badge/arxiv-2504.13914-silver" alt="Paper"></a>
+- General-reasoner: Advancing llm reasoning across all domains
+<a href="https://arxiv.org/pdf/2505.14652"><img src="https://img.shields.io/badge/arxiv-2505.14652-silver" alt="Paper"></a>
+<a href="https://github.com/TIGER-AI-Lab/General-Reasoner
+"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+<a href="https://huggingface.co/collections/TIGER-Lab/general-reasoner-67fe9386e43e046489eac013"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+
+- Crossing the Reward Bridge: Expanding RL with Verifiable Rewards Across Diverse Domains
+<a href="https://arxiv.org/pdf/2503.23829"><img src="https://img.shields.io/badge/arxiv-2503.23829-silver" alt="Paper"></a>
+<a href="https://huggingface.co/collections/virtuoussy/rlvr-67ea349b086e3511f86d1c1f"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- Inference-time scaling for generalist reward modeling
+<a href="https://arxiv.org/pdf/2504.02495"><img src="https://img.shields.io/badge/arxiv-2504.02495-silver" alt="Paper"></a>
+- Writing-Zero: Bridge the Gap Between Non-verifiable Problems and Verifiable Rewards
+<a href="https://arxiv.org/pdf/2506.00103?"><img src="https://img.shields.io/badge/arxiv-2506.00103-silver" alt="Paper"></a>
+
+- Pre-Trained Policy Discriminators are General Reward Models
+<a href="https://arxiv.org/pdf/2507.05197"><img src="https://img.shields.io/badge/arxiv-2507.05197-silver" alt="Paper"></a>
+<a href="https://github.com/InternLM/POLAR
+"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+<a href="https://huggingface.co/collections/internlm/polar-68693f829d2e83ac5e6e124a"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+
+
+
 
 
 ### Reference Answer Provide Incentive Signal
