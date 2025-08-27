@@ -7,6 +7,8 @@
 <a href="https://arxiv.org/pdf/2505.19590"><img src="https://img.shields.io/badge/arxiv-2505.19590-silver" alt="Paper"></a>
 <a href="https://github.com/sunblaze-ucb/Intuitor"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
 
+#### Internal Signal as an Extra Addition
+
 ### Power of Seeking Consensus
 ### Self-Driven Learning Paradigm
 ### Internal Signal as an Extra Addition
