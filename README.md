@@ -3,11 +3,62 @@
 ## 💡 Large Reasoning Model Scaling Beyond Limited Verifiable Annotation
 
 ### Exploring Intrinsic Certainty 
+- The unreasonable effectiveness of entropy minimization in llm reasoning
+<a href="https://arxiv.org/pdf/2505.15134?"><img src="https://img.shields.io/badge/arxiv-2505.15134-silver" alt="Paper"></a>
+<a href="https://github.com/shivamag125/EM_PT"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+
+- Right Question is Already Half the Answer: Fully Unsupervised LLM Reasoning Incentivization
+<a href="https://arxiv.org/pdf/2504.05812"><img src="https://img.shields.io/badge/arxiv-2504.05812-silver" alt="Paper"></a>
+<a href="https://github.com/QingyangZhang/EMPO"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+<a href="https://huggingface.co/collections/qingyangzhang/empo-67f9f7ad7817ebff4b664010"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+
+- Maximizing Confidence Alone Improves Reasoning
+<a href="https://arxiv.org/pdf/2505.22660"><img src="https://img.shields.io/badge/arxiv-2505.22660-silver" alt="Paper"></a>
+<a href="https://github.com/satrams/rent-rl"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+
+- Confidence Is All You Need: Few-Shot RL Fine-Tuning of Language Models
+<a href="https://arxiv.org/pdf/2506.06395"><img src="https://img.shields.io/badge/arxiv-2506.06395-silver" alt="Paper"></a>
+
 - Learning to Reason without External Rewards 
 <a href="https://arxiv.org/pdf/2505.19590"><img src="https://img.shields.io/badge/arxiv-2505.19590-silver" alt="Paper"></a>
 <a href="https://github.com/sunblaze-ucb/Intuitor"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+<a href="https://huggingface.co/collections/sunblaze-ucb/intuitor-684f895c78ed2d3ef3a678b3"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+
+- No Free Lunch: Rethinking Internal Feedback for LLM Reasoning
+<a href="https://arxiv.org/pdf/2506.17219"><img src="https://img.shields.io/badge/arxiv-2506.17219-silver" alt="Paper"></a>
+
+- Shop-R1: Rewarding LLMs to Simulate Human Behavior in Online Shopping via Reinforcement Learning
+<a href="https://arxiv.org/pdf/2507.17842"><img src="https://img.shields.io/badge/arxiv-2507.17842-silver" alt="Paper"></a>
+
 
 #### Internal Signal as an Extra Addition
+- Reinforcing General Reasoning without Verifiers
+<a href="https://arxiv.org/pdf/2505.21493?"><img src="https://img.shields.io/badge/arxiv-2505.21493-silver" alt="Paper"></a>
+<a href="https://github.com/sail-sg/VeriFree"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+<a href="https://huggingface.co/collections/zhouxiangxin/verifree-685a1e9509d0db2ed9731c62"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+
+- Beyond Verifiable Rewards: Scaling Reinforcement Learning for Language Models to Unverifiable Data
+<a href="https://arxiv.org/pdf/2503.19618"><img src="https://img.shields.io/badge/arxiv-2503.19618-silver" alt="Paper"></a>
+
+- Language models are hidden reasoners: Unlocking latent reasoning capabilities via self-rewarding
+<a href="https://arxiv.org/pdf/2411.04282?"><img src="https://img.shields.io/badge/arxiv-2411.04282-silver" alt="Paper"></a>
+<a href="https://github.com/SalesforceAIResearch/LaTRO"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+
+- Direct reasoning optimization: Llms can reward and refine their own reasoning for open-ended tasks
+<a href="https://arxiv.org/pdf/2506.13351"><img src="https://img.shields.io/badge/arxiv-2506.13351-silver" alt="Paper"></a>
+
+- RLPR: Extrapolating RLVR to General Domains without Verifiers
+<a href="https://arxiv.org/pdf/2506.18254"><img src="https://img.shields.io/badge/arxiv-2506.18254-silver" alt="Paper"></a>
+<a href="https://github.com/OpenBMB/RLPR"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+
+- NOVER: Incentive Training for Language Models via Verifier-Free Reinforcement Learning
+<a href="https://arxiv.org/pdf/2505.16022?"><img src="https://img.shields.io/badge/arxiv-2505.16022-silver" alt="Paper"></a>
+<a href="https://github.com/thinkwee/NOVER"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+<a href="https://huggingface.co/collections/thinkwee/novereason-68937ca75331dfaddaf24016"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+
+- Learning to reason for long-form story generation
+<a href="https://arxiv.org/pdf/2503.22828"><img src="https://img.shields.io/badge/arxiv-2503.22828-silver" alt="Paper"></a>
+<a href="https://github.com/Alex-Gurung/ReasoningNCP"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
 
 ### Power of Seeking Consensus
 ### Self-Driven Learning Paradigm
