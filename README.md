@@ -15,7 +15,7 @@ A curated list of papers, code, and benchmarks from the survey, organized by the
 
 ## 📢 News
 
-- **2026-08** Expanded coverage to survey papers across **L1–L4**, and added **Figure 1** (receding-supervision ladder).
+- **2026-08** Expanded coverage to survey papers across **L0–L4**, and added **Figure 1** (receding-supervision ladder).
 - Contributions welcome — place each work under its **primary** ladder level.
 
 ---
