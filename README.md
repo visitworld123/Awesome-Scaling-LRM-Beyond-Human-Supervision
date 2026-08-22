@@ -1,4 +1,4 @@
-# Awesome-Scaling-LRM-Beyond-Verifiable-Truths
+# Awesome-Scaling-LRM-Beyond-Human-Supervision
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/visitworld123/Awesome-Scaling-LRM-Beyond-Verifiable-Truths?style=social)](https://github.com/visitworld123/Awesome-Scaling-LRM-Beyond-Verifiable-Truths)
