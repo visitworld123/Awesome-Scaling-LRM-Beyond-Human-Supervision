@@ -66,10 +66,12 @@ A curated list of papers, code, and benchmarks from the survey, organized by the
   <a href="https://arxiv.org/pdf/2402.03300?"><img src="https://img.shields.io/badge/arxiv-2402.03300-silver" alt="Paper"></a>
   <a href="https://github.com/deepseek-ai/DeepSeek-Math"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
   <a href="https://github.com/deepseek-ai/DeepSeek-Math"><img src="https://img.shields.io/github/stars/deepseek-ai/DeepSeek-Math" alt="stars"></a>
+  <a href="https://huggingface.co/deepseek-ai/deepseek-math-7b-rl"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
 - DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning
   <a href="https://arxiv.org/pdf/2501.12948?"><img src="https://img.shields.io/badge/arxiv-2501.12948-silver" alt="Paper"></a>
   <a href="https://github.com/deepseek-ai/DeepSeek-R1"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
   <a href="https://github.com/deepseek-ai/DeepSeek-R1"><img src="https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1" alt="stars"></a>
+  <a href="https://huggingface.co/deepseek-ai/DeepSeek-R1"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
 - Training Language Models to Follow Instructions with Human Feedback (InstructGPT / RLHF)
   <a href="https://arxiv.org/pdf/2203.02155?"><img src="https://img.shields.io/badge/arxiv-2203.02155-silver" alt="Paper"></a>
 - Let's Verify Step by Step (MATH / process supervision)
@@ -104,22 +106,27 @@ A curated list of papers, code, and benchmarks from the survey, organized by the
   <a href="https://arxiv.org/pdf/2507.18624?"><img src="https://img.shields.io/badge/arxiv-2507.18624-silver" alt="Paper"></a>
   <a href="https://github.com/viswavi/RLCF"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
   <a href="https://github.com/viswavi/RLCF"><img src="https://img.shields.io/github/stars/viswavi/RLCF" alt="stars"></a>
+  <a href="https://huggingface.co/datasets/viswavi/wildchecklists"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
 - Rubrics as Rewards: Reinforcement Learning Beyond Verifiable Domains (RaR)
   <a href="https://arxiv.org/pdf/2507.17746?"><img src="https://img.shields.io/badge/arxiv-2507.17746-silver" alt="Paper"></a>
 - Reinforcement Learning with Rubric Anchors (Rubicon)
   <a href="https://arxiv.org/pdf/2508.12790?"><img src="https://img.shields.io/badge/arxiv-2508.12790-silver" alt="Paper"></a>
+  <a href="https://huggingface.co/inclusionAI/Rubicon-Preview"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
 - Breaking the Exploration Bottleneck: Rubric-Scaffolded RL (RuscaRL)
   <a href="https://arxiv.org/pdf/2508.16949?"><img src="https://img.shields.io/badge/arxiv-2508.16949-silver" alt="Paper"></a>
   <a href="https://github.com/IANNXANG/RuscaRL"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
   <a href="https://github.com/IANNXANG/RuscaRL"><img src="https://img.shields.io/github/stars/IANNXANG/RuscaRL" alt="stars"></a>
+  <a href="https://huggingface.co/datasets/sojuL/RubricHub_v1"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
 - Kimi K2: Open Agentic Intelligence
   <a href="https://arxiv.org/pdf/2507.20534?"><img src="https://img.shields.io/badge/arxiv-2507.20534-silver" alt="Paper"></a>
   <a href="https://github.com/MoonshotAI/Kimi-K2"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
   <a href="https://github.com/MoonshotAI/Kimi-K2"><img src="https://img.shields.io/github/stars/MoonshotAI/Kimi-K2" alt="stars"></a>
+  <a href="https://huggingface.co/moonshotai/Kimi-K2-Instruct"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
 - Baichuan-M2: Scaling Medical Capability with Large Verifier System
   <a href="https://arxiv.org/pdf/2509.02208?"><img src="https://img.shields.io/badge/arxiv-2509.02208-silver" alt="Paper"></a>
   <a href="https://github.com/baichuan-inc/Baichuan-M2-32B"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
   <a href="https://github.com/baichuan-inc/Baichuan-M2-32B"><img src="https://img.shields.io/github/stars/baichuan-inc/Baichuan-M2-32B" alt="stars"></a>
+  <a href="https://huggingface.co/baichuan-inc/Baichuan-M2-32B"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
 - Self-Rewarding Language Models
   <a href="https://arxiv.org/pdf/2401.10020?"><img src="https://img.shields.io/badge/arxiv-2401.10020-silver" alt="Paper"></a>
 - Meta-Rewarding Language Models: Self-Improving Alignment with LLM-as-a-Meta-Judge
@@ -142,6 +149,7 @@ A curated list of papers, code, and benchmarks from the survey, organized by the
   <a href="https://arxiv.org/pdf/2508.05383?"><img src="https://img.shields.io/badge/arxiv-2508.05383-silver" alt="Paper"></a>
 - Inference-Time Scaling for Generalist Reward Modeling (SPCT)
   <a href="https://arxiv.org/pdf/2504.02495?"><img src="https://img.shields.io/badge/arxiv-2504.02495-silver" alt="Paper"></a>
+  <a href="https://huggingface.co/collections/BBQGOD/deepseek-grm-68b4681169dbb97fd30614b5"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
 - Writing-Zero: Bridge the Gap Between Non-verifiable Problems and Verifiable Rewards
   <a href="https://arxiv.org/pdf/2506.00103?"><img src="https://img.shields.io/badge/arxiv-2506.00103-silver" alt="Paper"></a>
 - Pre-Trained Policy Discriminators are General Reward Models (POLAR)
@@ -166,10 +174,12 @@ A curated list of papers, code, and benchmarks from the survey, organized by the
   <a href="https://huggingface.co/collections/Gen-Verse/reasonflux-coder-6833109ed9300c62deb32c6b"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
 - Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations
   <a href="https://arxiv.org/pdf/2312.08935?"><img src="https://img.shields.io/badge/arxiv-2312.08935-silver" alt="Paper"></a>
+  <a href="https://huggingface.co/datasets/peiyi9979/Math-Shepherd"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
 - Process Reinforcement through Implicit Rewards (PRIME)
   <a href="https://arxiv.org/pdf/2502.01456?"><img src="https://img.shields.io/badge/arxiv-2502.01456-silver" alt="Paper"></a>
   <a href="https://github.com/PRIME-RL/PRIME"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
   <a href="https://github.com/PRIME-RL/PRIME"><img src="https://img.shields.io/github/stars/PRIME-RL/PRIME" alt="stars"></a>
+  <a href="https://huggingface.co/PRIME-RL/Eurus-2-7B-PRIME"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
 
 ---
 
@@ -192,6 +202,7 @@ A curated list of papers, code, and benchmarks from the survey, organized by the
   <a href="https://arxiv.org/pdf/2505.22660?"><img src="https://img.shields.io/badge/arxiv-2505.22660-silver" alt="Paper"></a>
   <a href="https://github.com/satrams/rent-rl"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
   <a href="https://github.com/satrams/rent-rl"><img src="https://img.shields.io/github/stars/satrams/rent-rl" alt="stars"></a>
+  <a href="https://huggingface.co/aippolit/RENT-Qwen-7B"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
 - Confidence Is All You Need: Few-Shot RL Fine-Tuning of Language Models (RLSC)
   <a href="https://arxiv.org/pdf/2506.06395?"><img src="https://img.shields.io/badge/arxiv-2506.06395-silver" alt="Paper"></a>
 - Learning to Reason without External Rewards (Intuitor)
@@ -210,6 +221,7 @@ A curated list of papers, code, and benchmarks from the survey, organized by the
   <a href="https://arxiv.org/pdf/2508.00410?"><img src="https://img.shields.io/badge/arxiv-2508.00410-silver" alt="Paper"></a>
   <a href="https://github.com/tmlr-group/Co-rewarding"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
   <a href="https://github.com/tmlr-group/Co-rewarding"><img src="https://img.shields.io/github/stars/tmlr-group/Co-rewarding" alt="stars"></a>
+  <a href="https://huggingface.co/collections/TMLR-Group-HF/co-rewarding"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
 - TTRL: Test-Time Reinforcement Learning
   <a href="https://arxiv.org/pdf/2504.16084?"><img src="https://img.shields.io/badge/arxiv-2504.16084-silver" alt="Paper"></a>
   <a href="https://github.com/PRIME-RL/TTRL"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
@@ -218,10 +230,12 @@ A curated list of papers, code, and benchmarks from the survey, organized by the
   <a href="https://arxiv.org/pdf/2505.22453?"><img src="https://img.shields.io/badge/arxiv-2505.22453-silver" alt="Paper"></a>
   <a href="https://github.com/waltonfuture/MM-UPT"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
   <a href="https://github.com/waltonfuture/MM-UPT"><img src="https://img.shields.io/github/stars/waltonfuture/MM-UPT" alt="stars"></a>
+  <a href="https://huggingface.co/WaltonFuture/Qwen2.5-VL-7B-MM-UPT-MMR1"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
 - Consistent Paths Lead to Truth: Self-Rewarding RL for LLM Reasoning (CoVo)
   <a href="https://arxiv.org/pdf/2506.08745?"><img src="https://img.shields.io/badge/arxiv-2506.08745-silver" alt="Paper"></a>
   <a href="https://github.com/sastpg/CoVo"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
   <a href="https://github.com/sastpg/CoVo"><img src="https://img.shields.io/github/stars/sastpg/CoVo" alt="stars"></a>
+  <a href="https://huggingface.co/datasets/sastpg/CoVo_Dataset"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
 - ETTRL: Balancing Exploration and Exploitation in LLM Test-Time RL via Entropy
   <a href="https://arxiv.org/pdf/2508.11356?"><img src="https://img.shields.io/badge/arxiv-2508.11356-silver" alt="Paper"></a>
 - Can Large Reasoning Models Self-Train?
@@ -246,6 +260,7 @@ A curated list of papers, code, and benchmarks from the survey, organized by the
   <a href="https://arxiv.org/pdf/2506.18254?"><img src="https://img.shields.io/badge/arxiv-2506.18254-silver" alt="Paper"></a>
   <a href="https://github.com/OpenBMB/RLPR"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
   <a href="https://github.com/OpenBMB/RLPR"><img src="https://img.shields.io/github/stars/OpenBMB/RLPR" alt="stars"></a>
+  <a href="https://huggingface.co/collections/openbmb/rlpr-6857fa5d22cbe64327a3f8f6"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
 - NOVER: Incentive Training via Verifier-Free Reinforcement Learning
   <a href="https://arxiv.org/pdf/2505.16022?"><img src="https://img.shields.io/badge/arxiv-2505.16022-silver" alt="Paper"></a>
   <a href="https://github.com/thinkwee/NOVER"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
@@ -266,10 +281,12 @@ Environment-adjudicated rewards (code tests, search, games) without online human
   <a href="https://arxiv.org/pdf/2503.09516?"><img src="https://img.shields.io/badge/arxiv-2503.09516-silver" alt="Paper"></a>
   <a href="https://github.com/PeterGriffinJin/Search-R1"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
   <a href="https://github.com/PeterGriffinJin/Search-R1"><img src="https://img.shields.io/github/stars/PeterGriffinJin/Search-R1" alt="stars"></a>
+  <a href="https://huggingface.co/collections/PeterJinGo/search-r1-67d1a021202731cb065740f5"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
 - R1-Searcher: Incentivizing the Search Capability in LLMs via RL
   <a href="https://arxiv.org/pdf/2503.05592?"><img src="https://img.shields.io/badge/arxiv-2503.05592-silver" alt="Paper"></a>
   <a href="https://github.com/RUCAIBox/R1-Searcher"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
   <a href="https://github.com/RUCAIBox/R1-Searcher"><img src="https://img.shields.io/github/stars/RUCAIBox/R1-Searcher" alt="stars"></a>
+  <a href="https://huggingface.co/XXsongLALA/Qwen-2.5-7B-base-RAG-RL"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
 
 ---
 
@@ -292,6 +309,7 @@ Environment-adjudicated rewards (code tests, search, games) without online human
   <a href="https://arxiv.org/pdf/2304.12244?"><img src="https://img.shields.io/badge/arxiv-2304.12244-silver" alt="Paper"></a>
   <a href="https://github.com/nlpxucan/WizardLM"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
   <a href="https://github.com/nlpxucan/WizardLM"><img src="https://img.shields.io/github/stars/nlpxucan/WizardLM" alt="stars"></a>
+  <a href="https://huggingface.co/WizardLMTeam/WizardLM-13B-V1.2"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
 - SeRL: Self-Play Reinforcement Learning for LLMs with Limited Data
   <a href="https://arxiv.org/pdf/2505.20347?"><img src="https://img.shields.io/badge/arxiv-2505.20347-silver" alt="Paper"></a>
   <a href="https://github.com/wantbook-book/SeRL"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
@@ -320,6 +338,7 @@ Environment-adjudicated rewards (code tests, search, games) without online human
   <a href="https://arxiv.org/pdf/2506.14205?"><img src="https://img.shields.io/badge/arxiv-2506.14205-silver" alt="Paper"></a>
   <a href="https://github.com/sunblaze-ucb/AgentSynth"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
   <a href="https://github.com/sunblaze-ucb/AgentSynth"><img src="https://img.shields.io/github/stars/sunblaze-ucb/AgentSynth" alt="stars"></a>
+  <a href="https://huggingface.co/datasets/sunblaze-ucb/AgentSynth"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
 
 ### Environment Construction & Agentic Experience
 
@@ -332,10 +351,12 @@ Environment-adjudicated rewards (code tests, search, games) without online human
   <a href="https://arxiv.org/pdf/2508.04700?"><img src="https://img.shields.io/badge/arxiv-2508.04700-silver" alt="Paper"></a>
   <a href="https://github.com/SunzeY/SEAgent"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
   <a href="https://github.com/SunzeY/SEAgent"><img src="https://img.shields.io/github/stars/SunzeY/SEAgent" alt="stars"></a>
+  <a href="https://huggingface.co/Zery/SEAgent-1.0-7B"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
 - MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent
   <a href="https://arxiv.org/pdf/2507.02259?"><img src="https://img.shields.io/badge/arxiv-2507.02259-silver" alt="Paper"></a>
   <a href="https://github.com/BytedTsinghua-SIA/MemAgent"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
   <a href="https://github.com/BytedTsinghua-SIA/MemAgent"><img src="https://img.shields.io/github/stars/BytedTsinghua-SIA/MemAgent" alt="stars"></a>
+  <a href="https://huggingface.co/BytedTsinghua-SIA/RL-MemoryAgent-14B"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
 - Voyager: An Open-Ended Embodied Agent with Large Language Models
   <a href="https://arxiv.org/pdf/2305.16291?"><img src="https://img.shields.io/badge/arxiv-2305.16291-silver" alt="Paper"></a>
   <a href="https://github.com/MineDojo/Voyager"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
@@ -352,6 +373,7 @@ Environment-adjudicated rewards (code tests, search, games) without online human
   <a href="https://arxiv.org/pdf/2602.10090?"><img src="https://img.shields.io/badge/arxiv-2602.10090-silver" alt="Paper"></a>
   <a href="https://github.com/Snowflake-Labs/agent-world-model"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
   <a href="https://github.com/Snowflake-Labs/agent-world-model"><img src="https://img.shields.io/github/stars/Snowflake-Labs/agent-world-model" alt="stars"></a>
+  <a href="https://huggingface.co/collections/Snowflake/agent-world-model"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
 - ScaleEnv: Scaling Environment Synthesis from Scratch for Generalist Tool-Use Agents
   <a href="https://arxiv.org/pdf/2602.06820?"><img src="https://img.shields.io/badge/arxiv-2602.06820-silver" alt="Paper"></a>
 - CuES: Curiosity-driven and Environment-grounded Synthesis for Agentic RL
@@ -364,6 +386,7 @@ Environment-adjudicated rewards (code tests, search, games) without online human
   <a href="https://arxiv.org/pdf/2510.10197?"><img src="https://img.shields.io/badge/arxiv-2510.10197-silver" alt="Paper"></a>
   <a href="https://github.com/inclusionAI/AWorld-RL"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
   <a href="https://github.com/inclusionAI/AWorld-RL"><img src="https://img.shields.io/github/stars/inclusionAI/AWorld-RL" alt="stars"></a>
+  <a href="https://huggingface.co/collections/IcyFish/environment-tuning"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
 
 ---
 
@@ -375,6 +398,7 @@ Environment-adjudicated rewards (code tests, search, games) without online human
   <a href="https://arxiv.org/pdf/2505.03335?"><img src="https://img.shields.io/badge/arxiv-2505.03335-silver" alt="Paper"></a>
   <a href="https://github.com/LeapLabTHU/Absolute-Zero-Reasoner"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
   <a href="https://github.com/LeapLabTHU/Absolute-Zero-Reasoner"><img src="https://img.shields.io/github/stars/LeapLabTHU/Absolute-Zero-Reasoner" alt="stars"></a>
+  <a href="https://huggingface.co/collections/andrewzh/absolute-zero-reasoner-68139b2bca82afb00bc69e5b"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
 - R-Zero: Self-Evolving Reasoning LLM from Zero Data
   <a href="https://arxiv.org/pdf/2508.05004?"><img src="https://img.shields.io/badge/arxiv-2508.05004-silver" alt="Paper"></a>
   <a href="https://github.com/Chengsong-Huang/R-Zero"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
@@ -385,12 +409,14 @@ Environment-adjudicated rewards (code tests, search, games) without online human
   <a href="https://arxiv.org/pdf/2506.03136?"><img src="https://img.shields.io/badge/arxiv-2506.03136-silver" alt="Paper"></a>
   <a href="https://github.com/Gen-Verse/CURE"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
   <a href="https://github.com/Gen-Verse/CURE"><img src="https://img.shields.io/github/stars/Gen-Verse/CURE" alt="stars"></a>
+  <a href="https://huggingface.co/collections/Gen-Verse/reasonflux-coder-6833109ed9300c62deb32c6b"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
 - Self-Challenging Language Model Agents
   <a href="https://arxiv.org/pdf/2506.01716?"><img src="https://img.shields.io/badge/arxiv-2506.01716-silver" alt="Paper"></a>
 - SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn RL
   <a href="https://arxiv.org/pdf/2506.24119?"><img src="https://img.shields.io/badge/arxiv-2506.24119-silver" alt="Paper"></a>
   <a href="https://github.com/spiral-rl/spiral"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
   <a href="https://github.com/spiral-rl/spiral"><img src="https://img.shields.io/github/stars/spiral-rl/spiral" alt="stars"></a>
+  <a href="https://huggingface.co/collections/spiral-rl/spiral-68627f14c250c3cc1fdbf6fe"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
 - POET: Paired Open-Ended Trailblazer
   <a href="https://arxiv.org/pdf/1901.01753?"><img src="https://img.shields.io/badge/arxiv-1901.01753-silver" alt="Paper"></a>
   <a href="https://github.com/uber-research/poet"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
@@ -416,15 +442,217 @@ Environment-adjudicated rewards (code tests, search, games) without online human
 
 ### Capability — Hard-verifiable
 
-**Math:** GSM8K ([2110.14168](https://arxiv.org/pdf/2110.14168?)) · MATH/MATH500 ([2305.20050](https://arxiv.org/pdf/2305.20050?)) · LiveMathBench ([2412.13147](https://arxiv.org/pdf/2412.13147?)) · NuminaMath/AMC ([2410.01271](https://arxiv.org/pdf/2410.01271?)) · [AIME 2024](https://artofproblemsolving.com/wiki/index.php/2024_AIME_I) · [AIME 2025](https://artofproblemsolving.com/wiki/index.php/2025_AIME_I) · RandomCalculation ([2507.10532](https://arxiv.org/pdf/2507.10532?))
+#### Math
 
-**Code:** MBPP ([2108.07732](https://arxiv.org/pdf/2108.07732?)) · LiveCodeBench ([2403.07974](https://arxiv.org/pdf/2403.07974?)) · CRUXEval ([2401.03065](https://arxiv.org/pdf/2401.03065?)) · HumanEval ([2107.03374](https://arxiv.org/pdf/2107.03374?)) · CodeContests ([2203.07814](https://arxiv.org/pdf/2203.07814?)) · MHPP ([2405.11430](https://arxiv.org/pdf/2405.11430?)) · CodeElo ([2501.01257](https://arxiv.org/pdf/2501.01257?))
+- GSM8K
+  <a href="https://arxiv.org/pdf/2110.14168?"><img src="https://img.shields.io/badge/arxiv-2110.14168-silver" alt="Paper"></a>
+  <a href="https://github.com/openai/grade-school-math"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/openai/grade-school-math"><img src="https://img.shields.io/github/stars/openai/grade-school-math" alt="stars"></a>
+  <a href="https://huggingface.co/datasets/openai/gsm8k"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- MATH / MATH500
+  <a href="https://arxiv.org/pdf/2305.20050?"><img src="https://img.shields.io/badge/arxiv-2305.20050-silver" alt="Paper"></a>
+  <a href="https://github.com/openai/prm800k"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/openai/prm800k"><img src="https://img.shields.io/github/stars/openai/prm800k" alt="stars"></a>
+  <a href="https://huggingface.co/datasets/HuggingFaceH4/MATH-500"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- LiveMathBench
+  <a href="https://arxiv.org/pdf/2412.13147?"><img src="https://img.shields.io/badge/arxiv-2412.13147-silver" alt="Paper"></a>
+  <a href="https://github.com/open-compass/GPassK"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/open-compass/GPassK"><img src="https://img.shields.io/github/stars/open-compass/GPassK" alt="stars"></a>
+  <a href="https://huggingface.co/datasets/opencompass/LiveMathBench"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- NuminaMath / AMC
+  <a href="https://arxiv.org/pdf/2410.01271?"><img src="https://img.shields.io/badge/arxiv-2410.01271-silver" alt="Paper"></a>
+  <a href="https://huggingface.co/datasets/AI-MO/NuminaMath-CoT"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- AIME 2024
+  <a href="https://artofproblemsolving.com/wiki/index.php/2024_AIME_I"><img src="https://img.shields.io/badge/AoPS-1f6feb" alt="AoPS"></a>
+  <a href="https://huggingface.co/datasets/HuggingFaceH4/aime_2024"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- AIME 2025
+  <a href="https://artofproblemsolving.com/wiki/index.php/2025_AIME_I"><img src="https://img.shields.io/badge/AoPS-1f6feb" alt="AoPS"></a>
+  <a href="https://huggingface.co/datasets/MathArena/aime_2025"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- RandomCalculation
+  <a href="https://arxiv.org/pdf/2507.10532?"><img src="https://img.shields.io/badge/arxiv-2507.10532-silver" alt="Paper"></a>
 
-**Logic / Multi-choice:** ZebraLogic ([2502.01100](https://arxiv.org/pdf/2502.01100?)) · AutoLogi ([2502.16906](https://arxiv.org/pdf/2502.16906?)) · Sudoku-Bench ([2505.16135](https://arxiv.org/pdf/2505.16135?)) · AQuA ([1705.04146](https://arxiv.org/pdf/1705.04146?)) · CodeMMLU ([2410.01999](https://arxiv.org/pdf/2410.01999?)) · LogiQA ([2007.08124](https://arxiv.org/pdf/2007.08124?))
+#### Code
+
+- MBPP
+  <a href="https://arxiv.org/pdf/2108.07732?"><img src="https://img.shields.io/badge/arxiv-2108.07732-silver" alt="Paper"></a>
+  <a href="https://huggingface.co/datasets/google-research-datasets/mbpp"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- LiveCodeBench
+  <a href="https://arxiv.org/pdf/2403.07974?"><img src="https://img.shields.io/badge/arxiv-2403.07974-silver" alt="Paper"></a>
+  <a href="https://github.com/LiveCodeBench/LiveCodeBench"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/LiveCodeBench/LiveCodeBench"><img src="https://img.shields.io/github/stars/LiveCodeBench/LiveCodeBench" alt="stars"></a>
+  <a href="https://huggingface.co/datasets/livecodebench/code_generation_lite"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- CRUXEval
+  <a href="https://arxiv.org/pdf/2401.03065?"><img src="https://img.shields.io/badge/arxiv-2401.03065-silver" alt="Paper"></a>
+  <a href="https://github.com/facebookresearch/cruxeval"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/facebookresearch/cruxeval"><img src="https://img.shields.io/github/stars/facebookresearch/cruxeval" alt="stars"></a>
+  <a href="https://huggingface.co/datasets/cruxeval-org/cruxeval"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- HumanEval
+  <a href="https://arxiv.org/pdf/2107.03374?"><img src="https://img.shields.io/badge/arxiv-2107.03374-silver" alt="Paper"></a>
+  <a href="https://github.com/openai/human-eval"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/openai/human-eval"><img src="https://img.shields.io/github/stars/openai/human-eval" alt="stars"></a>
+  <a href="https://huggingface.co/datasets/openai/openai_humaneval"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- CodeContests
+  <a href="https://arxiv.org/pdf/2203.07814?"><img src="https://img.shields.io/badge/arxiv-2203.07814-silver" alt="Paper"></a>
+  <a href="https://github.com/deepmind/code_contests"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/deepmind/code_contests"><img src="https://img.shields.io/github/stars/deepmind/code_contests" alt="stars"></a>
+  <a href="https://huggingface.co/datasets/deepmind/code_contests"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- MHPP
+  <a href="https://arxiv.org/pdf/2405.11430?"><img src="https://img.shields.io/badge/arxiv-2405.11430-silver" alt="Paper"></a>
+  <a href="https://github.com/SparksofAGI/MHPP"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/SparksofAGI/MHPP"><img src="https://img.shields.io/github/stars/SparksofAGI/MHPP" alt="stars"></a>
+  <a href="https://huggingface.co/datasets/sparksofagi/mhpp"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- CodeElo
+  <a href="https://arxiv.org/pdf/2501.01257?"><img src="https://img.shields.io/badge/arxiv-2501.01257-silver" alt="Paper"></a>
+  <a href="https://github.com/QwenLM/CodeElo"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/QwenLM/CodeElo"><img src="https://img.shields.io/github/stars/QwenLM/CodeElo" alt="stars"></a>
+  <a href="https://huggingface.co/datasets/Qwen/CodeElo"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+
+#### Logic / Multi-choice
+
+- ZebraLogic
+  <a href="https://arxiv.org/pdf/2502.01100?"><img src="https://img.shields.io/badge/arxiv-2502.01100-silver" alt="Paper"></a>
+  <a href="https://github.com/WildEval/ZebraLogic"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/WildEval/ZebraLogic"><img src="https://img.shields.io/github/stars/WildEval/ZebraLogic" alt="stars"></a>
+  <a href="https://huggingface.co/datasets/allenai/ZebraLogicBench"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- AutoLogi
+  <a href="https://arxiv.org/pdf/2502.16906?"><img src="https://img.shields.io/badge/arxiv-2502.16906-silver" alt="Paper"></a>
+  <a href="https://huggingface.co/datasets/qzhu/AutoLogi"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- Sudoku-Bench
+  <a href="https://arxiv.org/pdf/2505.16135?"><img src="https://img.shields.io/badge/arxiv-2505.16135-silver" alt="Paper"></a>
+  <a href="https://github.com/SakanaAI/Sudoku-Bench"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/SakanaAI/Sudoku-Bench"><img src="https://img.shields.io/github/stars/SakanaAI/Sudoku-Bench" alt="stars"></a>
+  <a href="https://huggingface.co/datasets/SakanaAI/Sudoku-Bench"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- AQuA
+  <a href="https://arxiv.org/pdf/1705.04146?"><img src="https://img.shields.io/badge/arxiv-1705.04146-silver" alt="Paper"></a>
+  <a href="https://huggingface.co/datasets/deepmind/aqua_rat"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- CodeMMLU
+  <a href="https://arxiv.org/pdf/2410.01999?"><img src="https://img.shields.io/badge/arxiv-2410.01999-silver" alt="Paper"></a>
+  <a href="https://github.com/FSoft-AI4Code/CodeMMLU"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/FSoft-AI4Code/CodeMMLU"><img src="https://img.shields.io/github/stars/FSoft-AI4Code/CodeMMLU" alt="stars"></a>
+  <a href="https://huggingface.co/datasets/Fsoft-AIC/CodeMMLU"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- LogiQA
+  <a href="https://arxiv.org/pdf/2007.08124?"><img src="https://img.shields.io/badge/arxiv-2007.08124-silver" alt="Paper"></a>
+  <a href="https://github.com/lgw863/LogiQA-dataset"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/lgw863/LogiQA-dataset"><img src="https://img.shields.io/github/stars/lgw863/LogiQA-dataset" alt="stars"></a>
+  <a href="https://huggingface.co/datasets/lucasmccabe/logiqa"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
 
 ### Capability — Semi-verifiable / Expert / Open-ended
 
-GPQA ([2311.12022](https://arxiv.org/pdf/2311.12022?)) · HLE ([2501.14249](https://arxiv.org/pdf/2501.14249?)) · MMLU ([2009.03300](https://arxiv.org/pdf/2009.03300?)) · MMLU-Pro ([2406.01574](https://arxiv.org/pdf/2406.01574?)) · CommonsenseQA ([1811.00937](https://arxiv.org/pdf/1811.00937?)) · CHARM ([2403.14112](https://arxiv.org/pdf/2403.14112?)) · MedQA ([2009.13081](https://arxiv.org/pdf/2009.13081?)) · MedBullets ([2402.18060](https://arxiv.org/pdf/2402.18060?)) · MedXpertQA ([2501.18362](https://arxiv.org/pdf/2501.18362?)) · FinanceQA ([2501.18062](https://arxiv.org/pdf/2501.18062?)) · FinTextQA ([2405.09980](https://arxiv.org/pdf/2405.09980?)) · FinBen ([2402.12659](https://arxiv.org/pdf/2402.12659?)) · FinanceBench ([2311.11944](https://arxiv.org/pdf/2311.11944?)) · LawBench ([2309.16289](https://arxiv.org/pdf/2309.16289?)) · LexEval ([2409.20288](https://arxiv.org/pdf/2409.20288?)) · LegalBench ([2308.11462](https://arxiv.org/pdf/2308.11462?)) · LEXam ([2505.12864](https://arxiv.org/pdf/2505.12864?)) · LitBench ([2507.00769](https://arxiv.org/pdf/2507.00769?)) · CS4 ([2410.04197](https://arxiv.org/pdf/2410.04197?)) · SS-GEN ([2406.15695](https://arxiv.org/pdf/2406.15695?)) · AlpacaEval ([2404.04475](https://arxiv.org/pdf/2404.04475?)) · IFEval ([2311.07911](https://arxiv.org/pdf/2311.07911?)) · MT-Bench ([2306.05685](https://arxiv.org/pdf/2306.05685?)) · EQ-Bench ([2312.06281](https://arxiv.org/pdf/2312.06281?)) · ToMBench ([2402.15052](https://arxiv.org/pdf/2402.15052?)) · EgoSocialArena ([2410.06195](https://arxiv.org/pdf/2410.06195?)) · SocialEval ([2506.00900](https://arxiv.org/pdf/2506.00900?))
+- GPQA
+  <a href="https://arxiv.org/pdf/2311.12022?"><img src="https://img.shields.io/badge/arxiv-2311.12022-silver" alt="Paper"></a>
+  <a href="https://github.com/idavidrein/gpqa"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/idavidrein/gpqa"><img src="https://img.shields.io/github/stars/idavidrein/gpqa" alt="stars"></a>
+  <a href="https://huggingface.co/datasets/Idavidrein/gpqa"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- HLE (Humanity's Last Exam)
+  <a href="https://arxiv.org/pdf/2501.14249?"><img src="https://img.shields.io/badge/arxiv-2501.14249-silver" alt="Paper"></a>
+  <a href="https://github.com/centerforaisafety/hle"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/centerforaisafety/hle"><img src="https://img.shields.io/github/stars/centerforaisafety/hle" alt="stars"></a>
+  <a href="https://huggingface.co/datasets/cais/hle"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- MMLU
+  <a href="https://arxiv.org/pdf/2009.03300?"><img src="https://img.shields.io/badge/arxiv-2009.03300-silver" alt="Paper"></a>
+  <a href="https://github.com/hendrycks/test"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/hendrycks/test"><img src="https://img.shields.io/github/stars/hendrycks/test" alt="stars"></a>
+  <a href="https://huggingface.co/datasets/cais/mmlu"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- MMLU-Pro
+  <a href="https://arxiv.org/pdf/2406.01574?"><img src="https://img.shields.io/badge/arxiv-2406.01574-silver" alt="Paper"></a>
+  <a href="https://github.com/TIGER-AI-Lab/MMLU-Pro"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/TIGER-AI-Lab/MMLU-Pro"><img src="https://img.shields.io/github/stars/TIGER-AI-Lab/MMLU-Pro" alt="stars"></a>
+  <a href="https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- CommonsenseQA
+  <a href="https://arxiv.org/pdf/1811.00937?"><img src="https://img.shields.io/badge/arxiv-1811.00937-silver" alt="Paper"></a>
+  <a href="https://github.com/jonathanherzig/commonsenseqa"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/jonathanherzig/commonsenseqa"><img src="https://img.shields.io/github/stars/jonathanherzig/commonsenseqa" alt="stars"></a>
+  <a href="https://huggingface.co/datasets/tau/commonsense_qa"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- CHARM
+  <a href="https://arxiv.org/pdf/2403.14112?"><img src="https://img.shields.io/badge/arxiv-2403.14112-silver" alt="Paper"></a>
+  <a href="https://github.com/opendatalab/CHARM"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/opendatalab/CHARM"><img src="https://img.shields.io/github/stars/opendatalab/CHARM" alt="stars"></a>
+  <a href="https://huggingface.co/datasets/hyz317/CHARM"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- MedQA
+  <a href="https://arxiv.org/pdf/2009.13081?"><img src="https://img.shields.io/badge/arxiv-2009.13081-silver" alt="Paper"></a>
+  <a href="https://huggingface.co/datasets/GBaker/MedQA-USMLE-4-options"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- MedBullets
+  <a href="https://arxiv.org/pdf/2402.18060?"><img src="https://img.shields.io/badge/arxiv-2402.18060-silver" alt="Paper"></a>
+  <a href="https://github.com/HanjieChen/ChallengeClinicalQA"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/HanjieChen/ChallengeClinicalQA"><img src="https://img.shields.io/github/stars/HanjieChen/ChallengeClinicalQA" alt="stars"></a>
+  <a href="https://huggingface.co/datasets/mkieffer/Medbullets"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- MedXpertQA
+  <a href="https://arxiv.org/pdf/2501.18362?"><img src="https://img.shields.io/badge/arxiv-2501.18362-silver" alt="Paper"></a>
+  <a href="https://github.com/TsinghuaC3I/MedXpertQA"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/TsinghuaC3I/MedXpertQA"><img src="https://img.shields.io/github/stars/TsinghuaC3I/MedXpertQA" alt="stars"></a>
+  <a href="https://huggingface.co/datasets/TsinghuaC3I/MedXpertQA"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- FinanceQA
+  <a href="https://arxiv.org/pdf/2501.18062?"><img src="https://img.shields.io/badge/arxiv-2501.18062-silver" alt="Paper"></a>
+  <a href="https://huggingface.co/datasets/AfterQuery/FinanceQA"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- FinTextQA
+  <a href="https://arxiv.org/pdf/2405.09980?"><img src="https://img.shields.io/badge/arxiv-2405.09980-silver" alt="Paper"></a>
+  <a href="https://huggingface.co/datasets/GPS-Lab/FinTextQA"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- FinBen
+  <a href="https://arxiv.org/pdf/2402.12659?"><img src="https://img.shields.io/badge/arxiv-2402.12659-silver" alt="Paper"></a>
+  <a href="https://github.com/The-FinAI/FinBen"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/The-FinAI/FinBen"><img src="https://img.shields.io/github/stars/The-FinAI/FinBen" alt="stars"></a>
+  <a href="https://huggingface.co/datasets/TheFinAI/finben-fomc"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- FinanceBench
+  <a href="https://arxiv.org/pdf/2311.11944?"><img src="https://img.shields.io/badge/arxiv-2311.11944-silver" alt="Paper"></a>
+  <a href="https://huggingface.co/datasets/PatronusAI/financebench"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- LawBench
+  <a href="https://arxiv.org/pdf/2309.16289?"><img src="https://img.shields.io/badge/arxiv-2309.16289-silver" alt="Paper"></a>
+  <a href="https://github.com/open-compass/LawBench"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/open-compass/LawBench"><img src="https://img.shields.io/github/stars/open-compass/LawBench" alt="stars"></a>
+  <a href="https://huggingface.co/datasets/doolayer/LawBench"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- LexEval
+  <a href="https://arxiv.org/pdf/2409.20288?"><img src="https://img.shields.io/badge/arxiv-2409.20288-silver" alt="Paper"></a>
+  <a href="https://github.com/CSHaitao/LexEval"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/CSHaitao/LexEval"><img src="https://img.shields.io/github/stars/CSHaitao/LexEval" alt="stars"></a>
+  <a href="https://huggingface.co/datasets/CSHaitao/LexEval"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- LegalBench
+  <a href="https://arxiv.org/pdf/2308.11462?"><img src="https://img.shields.io/badge/arxiv-2308.11462-silver" alt="Paper"></a>
+  <a href="https://github.com/HazyResearch/legalbench"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/HazyResearch/legalbench"><img src="https://img.shields.io/github/stars/HazyResearch/legalbench" alt="stars"></a>
+  <a href="https://huggingface.co/datasets/nguha/legalbench"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- LEXam
+  <a href="https://arxiv.org/pdf/2505.12864?"><img src="https://img.shields.io/badge/arxiv-2505.12864-silver" alt="Paper"></a>
+  <a href="https://github.com/LEXam-Benchmark/LEXam"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/LEXam-Benchmark/LEXam"><img src="https://img.shields.io/github/stars/LEXam-Benchmark/LEXam" alt="stars"></a>
+  <a href="https://huggingface.co/datasets/LEXam-Benchmark/LEXam"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- LitBench
+  <a href="https://arxiv.org/pdf/2507.00769?"><img src="https://img.shields.io/badge/arxiv-2507.00769-silver" alt="Paper"></a>
+  <a href="https://huggingface.co/datasets/SAA-Lab/LitBench-Test"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- CS4
+  <a href="https://arxiv.org/pdf/2410.04197?"><img src="https://img.shields.io/badge/arxiv-2410.04197-silver" alt="Paper"></a>
+  <a href="https://github.com/anirudhlakkaraju/cs4_benchmark"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/anirudhlakkaraju/cs4_benchmark"><img src="https://img.shields.io/github/stars/anirudhlakkaraju/cs4_benchmark" alt="stars"></a>
+- SS-GEN
+  <a href="https://arxiv.org/pdf/2406.15695?"><img src="https://img.shields.io/badge/arxiv-2406.15695-silver" alt="Paper"></a>
+  <a href="https://huggingface.co/datasets/FMiMiY/SS-GEN"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- AlpacaEval
+  <a href="https://arxiv.org/pdf/2404.04475?"><img src="https://img.shields.io/badge/arxiv-2404.04475-silver" alt="Paper"></a>
+  <a href="https://github.com/tatsu-lab/alpaca_eval"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/tatsu-lab/alpaca_eval"><img src="https://img.shields.io/github/stars/tatsu-lab/alpaca_eval" alt="stars"></a>
+  <a href="https://huggingface.co/datasets/tatsu-lab/alpaca_eval"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- IFEval
+  <a href="https://arxiv.org/pdf/2311.07911?"><img src="https://img.shields.io/badge/arxiv-2311.07911-silver" alt="Paper"></a>
+  <a href="https://huggingface.co/datasets/google/IFEval"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- MT-Bench
+  <a href="https://arxiv.org/pdf/2306.05685?"><img src="https://img.shields.io/badge/arxiv-2306.05685-silver" alt="Paper"></a>
+  <a href="https://github.com/lm-sys/FastChat"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/lm-sys/FastChat"><img src="https://img.shields.io/github/stars/lm-sys/FastChat" alt="stars"></a>
+  <a href="https://huggingface.co/datasets/HuggingFaceH4/mt_bench_prompts"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- EQ-Bench
+  <a href="https://arxiv.org/pdf/2312.06281?"><img src="https://img.shields.io/badge/arxiv-2312.06281-silver" alt="Paper"></a>
+  <a href="https://github.com/EQ-bench/EQ-Bench"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/EQ-bench/EQ-Bench"><img src="https://img.shields.io/github/stars/EQ-bench/EQ-Bench" alt="stars"></a>
+  <a href="https://huggingface.co/datasets/pbevan11/EQ-Bench"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- ToMBench
+  <a href="https://arxiv.org/pdf/2402.15052?"><img src="https://img.shields.io/badge/arxiv-2402.15052-silver" alt="Paper"></a>
+  <a href="https://huggingface.co/datasets/HCAI-Lab-GT/tombench-en"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
+- EgoSocialArena
+  <a href="https://arxiv.org/pdf/2410.06195?"><img src="https://img.shields.io/badge/arxiv-2410.06195-silver" alt="Paper"></a>
+- SocialEval
+  <a href="https://arxiv.org/pdf/2506.00900?"><img src="https://img.shields.io/badge/arxiv-2506.00900-silver" alt="Paper"></a>
+  <a href="https://github.com/thu-coai/SocialEval"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/thu-coai/SocialEval"><img src="https://img.shields.io/github/stars/thu-coai/SocialEval" alt="stars"></a>
+
 
 ### Reward-Axis Benchmarks
 
@@ -432,12 +660,14 @@ GPQA ([2311.12022](https://arxiv.org/pdf/2311.12022?)) · HLE ([2501.14249](http
   <a href="https://arxiv.org/pdf/2402.04788?"><img src="https://img.shields.io/badge/arxiv-2402.04788-silver" alt="Paper"></a>
   <a href="https://github.com/Dongping-Chen/MLLM-Judge"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
   <a href="https://github.com/Dongping-Chen/MLLM-Judge"><img src="https://img.shields.io/github/stars/Dongping-Chen/MLLM-Judge" alt="stars"></a>
+  <a href="https://huggingface.co/datasets/shuaishuaicdp/MLLM-Judge"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
 - Judging the Judges: Position Bias in LLM-as-a-Judge
   <a href="https://arxiv.org/pdf/2406.07791?"><img src="https://img.shields.io/badge/arxiv-2406.07791-silver" alt="Paper"></a>
 - JudgeBench
   <a href="https://arxiv.org/pdf/2410.12784?"><img src="https://img.shields.io/badge/arxiv-2410.12784-silver" alt="Paper"></a>
   <a href="https://github.com/ScalerLab/JudgeBench"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
   <a href="https://github.com/ScalerLab/JudgeBench"><img src="https://img.shields.io/github/stars/ScalerLab/JudgeBench" alt="stars"></a>
+  <a href="https://huggingface.co/datasets/ScalerLab/JudgeBench"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
 - JETTS
   <a href="https://arxiv.org/pdf/2504.15253?"><img src="https://img.shields.io/badge/arxiv-2504.15253-silver" alt="Paper"></a>
   <a href="https://github.com/SalesforceAIResearch/jetts-benchmark"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
@@ -446,18 +676,22 @@ GPQA ([2311.12022](https://arxiv.org/pdf/2311.12022?)) · HLE ([2501.14249](http
   <a href="https://arxiv.org/pdf/2507.10535?"><img src="https://img.shields.io/badge/arxiv-2507.10535-silver" alt="Paper"></a>
   <a href="https://github.com/hongcha0/CodeJudgeBench"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
   <a href="https://github.com/hongcha0/CodeJudgeBench"><img src="https://img.shields.io/github/stars/hongcha0/CodeJudgeBench" alt="stars"></a>
+  <a href="https://huggingface.co/datasets/mattymchen/codejudgebench"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
 - RewardBench
   <a href="https://arxiv.org/pdf/2403.13787?"><img src="https://img.shields.io/badge/arxiv-2403.13787-silver" alt="Paper"></a>
   <a href="https://github.com/allenai/reward-bench"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
   <a href="https://github.com/allenai/reward-bench"><img src="https://img.shields.io/github/stars/allenai/reward-bench" alt="stars"></a>
+  <a href="https://huggingface.co/datasets/allenai/reward-bench"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
 - RM-Bench
   <a href="https://arxiv.org/pdf/2410.16184?"><img src="https://img.shields.io/badge/arxiv-2410.16184-silver" alt="Paper"></a>
   <a href="https://github.com/THU-KEG/RM-Bench"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
   <a href="https://github.com/THU-KEG/RM-Bench"><img src="https://img.shields.io/github/stars/THU-KEG/RM-Bench" alt="stars"></a>
+  <a href="https://huggingface.co/datasets/THU-KEG/RM-Bench"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
 - ViLBench
   <a href="https://arxiv.org/pdf/2503.20271?"><img src="https://img.shields.io/badge/arxiv-2503.20271-silver" alt="Paper"></a>
   <a href="https://github.com/UCSC-VLAA/ViLBench"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
   <a href="https://github.com/UCSC-VLAA/ViLBench"><img src="https://img.shields.io/github/stars/UCSC-VLAA/ViLBench" alt="stars"></a>
+  <a href="https://huggingface.co/datasets/UCSC-VLAA/ViLBench"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
 - Socratic-PRMBench
   <a href="https://arxiv.org/pdf/2505.23474?"><img src="https://img.shields.io/badge/arxiv-2505.23474-silver" alt="Paper"></a>
   <a href="https://github.com/Xiang-Li-oss/Socratic-PRMBench"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
@@ -466,10 +700,12 @@ GPQA ([2311.12022](https://arxiv.org/pdf/2311.12022?)) · HLE ([2501.14249](http
   <a href="https://arxiv.org/pdf/2506.01937?"><img src="https://img.shields.io/badge/arxiv-2506.01937-silver" alt="Paper"></a>
   <a href="https://github.com/allenai/reward-bench"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
   <a href="https://github.com/allenai/reward-bench"><img src="https://img.shields.io/github/stars/allenai/reward-bench" alt="stars"></a>
+  <a href="https://huggingface.co/collections/allenai/reward-bench-2-683d2612a4b3e38a3e53bb51"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
 - RewardAnything
   <a href="https://arxiv.org/pdf/2506.03637?"><img src="https://img.shields.io/badge/arxiv-2506.03637-silver" alt="Paper"></a>
   <a href="https://github.com/WisdomShell/RewardAnything"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
   <a href="https://github.com/WisdomShell/RewardAnything"><img src="https://img.shields.io/github/stars/WisdomShell/RewardAnything" alt="stars"></a>
+  <a href="https://huggingface.co/WisdomShell/RewardAnything-8B-v1"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
 
 ---
 
