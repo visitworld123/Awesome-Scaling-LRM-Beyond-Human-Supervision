@@ -64,12 +64,18 @@ A curated list of papers, code, and benchmarks from the survey, organized by the
 
 - DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models
   <a href="https://arxiv.org/pdf/2402.03300?"><img src="https://img.shields.io/badge/arxiv-2402.03300-silver" alt="Paper"></a>
+  <a href="https://github.com/deepseek-ai/DeepSeek-Math"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/deepseek-ai/DeepSeek-Math"><img src="https://img.shields.io/github/stars/deepseek-ai/DeepSeek-Math" alt="stars"></a>
 - DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning
   <a href="https://arxiv.org/pdf/2501.12948?"><img src="https://img.shields.io/badge/arxiv-2501.12948-silver" alt="Paper"></a>
+  <a href="https://github.com/deepseek-ai/DeepSeek-R1"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/deepseek-ai/DeepSeek-R1"><img src="https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1" alt="stars"></a>
 - Training Language Models to Follow Instructions with Human Feedback (InstructGPT / RLHF)
   <a href="https://arxiv.org/pdf/2203.02155?"><img src="https://img.shields.io/badge/arxiv-2203.02155-silver" alt="Paper"></a>
 - Let's Verify Step by Step (MATH / process supervision)
   <a href="https://arxiv.org/pdf/2305.20050?"><img src="https://img.shields.io/badge/arxiv-2305.20050-silver" alt="Paper"></a>
+  <a href="https://github.com/openai/prm800k"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/openai/prm800k"><img src="https://img.shields.io/github/stars/openai/prm800k" alt="stars"></a>
 - Welcome to the Era of Experience *(Silver & Sutton; experience-era thesis)*
 
 ---
@@ -96,16 +102,24 @@ A curated list of papers, code, and benchmarks from the survey, organized by the
   <a href="https://arxiv.org/pdf/2508.05618?"><img src="https://img.shields.io/badge/arxiv-2508.05618-silver" alt="Paper"></a>
 - Checklists Are Better Than Reward Models for Aligning Language Models (RLCF)
   <a href="https://arxiv.org/pdf/2507.18624?"><img src="https://img.shields.io/badge/arxiv-2507.18624-silver" alt="Paper"></a>
+  <a href="https://github.com/viswavi/RLCF"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/viswavi/RLCF"><img src="https://img.shields.io/github/stars/viswavi/RLCF" alt="stars"></a>
 - Rubrics as Rewards: Reinforcement Learning Beyond Verifiable Domains (RaR)
   <a href="https://arxiv.org/pdf/2507.17746?"><img src="https://img.shields.io/badge/arxiv-2507.17746-silver" alt="Paper"></a>
 - Reinforcement Learning with Rubric Anchors (Rubicon)
   <a href="https://arxiv.org/pdf/2508.12790?"><img src="https://img.shields.io/badge/arxiv-2508.12790-silver" alt="Paper"></a>
 - Breaking the Exploration Bottleneck: Rubric-Scaffolded RL (RuscaRL)
   <a href="https://arxiv.org/pdf/2508.16949?"><img src="https://img.shields.io/badge/arxiv-2508.16949-silver" alt="Paper"></a>
+  <a href="https://github.com/IANNXANG/RuscaRL"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/IANNXANG/RuscaRL"><img src="https://img.shields.io/github/stars/IANNXANG/RuscaRL" alt="stars"></a>
 - Kimi K2: Open Agentic Intelligence
   <a href="https://arxiv.org/pdf/2507.20534?"><img src="https://img.shields.io/badge/arxiv-2507.20534-silver" alt="Paper"></a>
+  <a href="https://github.com/MoonshotAI/Kimi-K2"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/MoonshotAI/Kimi-K2"><img src="https://img.shields.io/github/stars/MoonshotAI/Kimi-K2" alt="stars"></a>
 - Baichuan-M2: Scaling Medical Capability with Large Verifier System
   <a href="https://arxiv.org/pdf/2509.02208?"><img src="https://img.shields.io/badge/arxiv-2509.02208-silver" alt="Paper"></a>
+  <a href="https://github.com/baichuan-inc/Baichuan-M2-32B"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/baichuan-inc/Baichuan-M2-32B"><img src="https://img.shields.io/github/stars/baichuan-inc/Baichuan-M2-32B" alt="stars"></a>
 - Self-Rewarding Language Models
   <a href="https://arxiv.org/pdf/2401.10020?"><img src="https://img.shields.io/badge/arxiv-2401.10020-silver" alt="Paper"></a>
 - Meta-Rewarding Language Models: Self-Improving Alignment with LLM-as-a-Meta-Judge
@@ -137,8 +151,12 @@ A curated list of papers, code, and benchmarks from the survey, organized by the
   <a href="https://huggingface.co/collections/internlm/polar-68693f829d2e83ac5e6e124a"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
 - Beyond the Trade-off: Self-Supervised RL for Reasoning Models' Instruction Following
   <a href="https://arxiv.org/pdf/2508.02150?"><img src="https://img.shields.io/badge/arxiv-2508.02150-silver" alt="Paper"></a>
+  <a href="https://github.com/Rainier-rq/verl-if"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/Rainier-rq/verl-if"><img src="https://img.shields.io/github/stars/Rainier-rq/verl-if" alt="stars"></a>
 - EvolvR: Self-Evolving Pairwise Reasoning for Story Evaluation
   <a href="https://arxiv.org/pdf/2508.06046?"><img src="https://img.shields.io/badge/arxiv-2508.06046-silver" alt="Paper"></a>
+  <a href="https://github.com/xindaaW/EvolvR"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/xindaaW/EvolvR"><img src="https://img.shields.io/github/stars/xindaaW/EvolvR" alt="stars"></a>
 - Posterior-GRPO: Rewarding Reasoning Processes in Code Generation
   <a href="https://arxiv.org/pdf/2508.05170?"><img src="https://img.shields.io/badge/arxiv-2508.05170-silver" alt="Paper"></a>
 - ReasonFlux-PRM: Trajectory-Aware PRMs for Long CoT Reasoning
@@ -150,6 +168,8 @@ A curated list of papers, code, and benchmarks from the survey, organized by the
   <a href="https://arxiv.org/pdf/2312.08935?"><img src="https://img.shields.io/badge/arxiv-2312.08935-silver" alt="Paper"></a>
 - Process Reinforcement through Implicit Rewards (PRIME)
   <a href="https://arxiv.org/pdf/2502.01456?"><img src="https://img.shields.io/badge/arxiv-2502.01456-silver" alt="Paper"></a>
+  <a href="https://github.com/PRIME-RL/PRIME"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/PRIME-RL/PRIME"><img src="https://img.shields.io/github/stars/PRIME-RL/PRIME" alt="stars"></a>
 
 ---
 
@@ -188,12 +208,20 @@ A curated list of papers, code, and benchmarks from the survey, organized by the
 
 - Co-Rewarding: Stable Self-supervised RL for Eliciting Reasoning in LLMs
   <a href="https://arxiv.org/pdf/2508.00410?"><img src="https://img.shields.io/badge/arxiv-2508.00410-silver" alt="Paper"></a>
+  <a href="https://github.com/tmlr-group/Co-rewarding"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/tmlr-group/Co-rewarding"><img src="https://img.shields.io/github/stars/tmlr-group/Co-rewarding" alt="stars"></a>
 - TTRL: Test-Time Reinforcement Learning
   <a href="https://arxiv.org/pdf/2504.16084?"><img src="https://img.shields.io/badge/arxiv-2504.16084-silver" alt="Paper"></a>
+  <a href="https://github.com/PRIME-RL/TTRL"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/PRIME-RL/TTRL"><img src="https://img.shields.io/github/stars/PRIME-RL/TTRL" alt="stars"></a>
 - Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO (MM-UPT)
   <a href="https://arxiv.org/pdf/2505.22453?"><img src="https://img.shields.io/badge/arxiv-2505.22453-silver" alt="Paper"></a>
+  <a href="https://github.com/waltonfuture/MM-UPT"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/waltonfuture/MM-UPT"><img src="https://img.shields.io/github/stars/waltonfuture/MM-UPT" alt="stars"></a>
 - Consistent Paths Lead to Truth: Self-Rewarding RL for LLM Reasoning (CoVo)
   <a href="https://arxiv.org/pdf/2506.08745?"><img src="https://img.shields.io/badge/arxiv-2506.08745-silver" alt="Paper"></a>
+  <a href="https://github.com/sastpg/CoVo"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/sastpg/CoVo"><img src="https://img.shields.io/github/stars/sastpg/CoVo" alt="stars"></a>
 - ETTRL: Balancing Exploration and Exploitation in LLM Test-Time RL via Entropy
   <a href="https://arxiv.org/pdf/2508.11356?"><img src="https://img.shields.io/badge/arxiv-2508.11356-silver" alt="Paper"></a>
 - Can Large Reasoning Models Self-Train?
@@ -236,8 +264,12 @@ Environment-adjudicated rewards (code tests, search, games) without online human
   <a href="https://arxiv.org/pdf/2410.02089?"><img src="https://img.shields.io/badge/arxiv-2410.02089-silver" alt="Paper"></a>
 - Search-R1: Training LLMs to Reason and Leverage Search Engines with RL
   <a href="https://arxiv.org/pdf/2503.09516?"><img src="https://img.shields.io/badge/arxiv-2503.09516-silver" alt="Paper"></a>
+  <a href="https://github.com/PeterGriffinJin/Search-R1"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/PeterGriffinJin/Search-R1"><img src="https://img.shields.io/github/stars/PeterGriffinJin/Search-R1" alt="stars"></a>
 - R1-Searcher: Incentivizing the Search Capability in LLMs via RL
   <a href="https://arxiv.org/pdf/2503.05592?"><img src="https://img.shields.io/badge/arxiv-2503.05592-silver" alt="Paper"></a>
+  <a href="https://github.com/RUCAIBox/R1-Searcher"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/RUCAIBox/R1-Searcher"><img src="https://img.shields.io/github/stars/RUCAIBox/R1-Searcher" alt="stars"></a>
 
 ---
 
@@ -250,18 +282,30 @@ Environment-adjudicated rewards (code tests, search, games) without online human
 
 - STaR: Bootstrapping Reasoning with Reasoning
   <a href="https://arxiv.org/pdf/2203.14465?"><img src="https://img.shields.io/badge/arxiv-2203.14465-silver" alt="Paper"></a>
+  <a href="https://github.com/ezelikman/STaR"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/ezelikman/STaR"><img src="https://img.shields.io/github/stars/ezelikman/STaR" alt="stars"></a>
 - Self-Instruct: Aligning Language Models with Self-Generated Instructions
   <a href="https://arxiv.org/pdf/2212.10560?"><img src="https://img.shields.io/badge/arxiv-2212.10560-silver" alt="Paper"></a>
+  <a href="https://github.com/yizhongw/self-instruct"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/yizhongw/self-instruct"><img src="https://img.shields.io/github/stars/yizhongw/self-instruct" alt="stars"></a>
 - WizardLM / Evol-Instruct: Empowering LLMs to Follow Complex Instructions
   <a href="https://arxiv.org/pdf/2304.12244?"><img src="https://img.shields.io/badge/arxiv-2304.12244-silver" alt="Paper"></a>
+  <a href="https://github.com/nlpxucan/WizardLM"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/nlpxucan/WizardLM"><img src="https://img.shields.io/github/stars/nlpxucan/WizardLM" alt="stars"></a>
 - SeRL: Self-Play Reinforcement Learning for LLMs with Limited Data
   <a href="https://arxiv.org/pdf/2505.20347?"><img src="https://img.shields.io/badge/arxiv-2505.20347-silver" alt="Paper"></a>
+  <a href="https://github.com/wantbook-book/SeRL"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/wantbook-book/SeRL"><img src="https://img.shields.io/github/stars/wantbook-book/SeRL" alt="stars"></a>
 - CoT-Self-Instruct: Building High-Quality Synthetic Prompts
   <a href="https://arxiv.org/pdf/2507.23751?"><img src="https://img.shields.io/badge/arxiv-2507.23751-silver" alt="Paper"></a>
 - Beyond the Trade-off: Self-Supervised RL for Instruction Following
   <a href="https://arxiv.org/pdf/2508.02150?"><img src="https://img.shields.io/badge/arxiv-2508.02150-silver" alt="Paper"></a>
+  <a href="https://github.com/Rainier-rq/verl-if"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/Rainier-rq/verl-if"><img src="https://img.shields.io/github/stars/Rainier-rq/verl-if" alt="stars"></a>
 - Self-Questioning Language Models (SQLM)
   <a href="https://arxiv.org/pdf/2508.03682?"><img src="https://img.shields.io/badge/arxiv-2508.03682-silver" alt="Paper"></a>
+  <a href="https://github.com/lili-chen/self-questioning-lm"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/lili-chen/self-questioning-lm"><img src="https://img.shields.io/github/stars/lili-chen/self-questioning-lm" alt="stars"></a>
 - Multi-Agent Evolve: LLM Self-Improve through Co-evolution (MAE)
   <a href="https://arxiv.org/pdf/2510.23595?"><img src="https://img.shields.io/badge/arxiv-2510.23595-silver" alt="Paper"></a>
 - Socratic-Zero: Bootstrapping Reasoning via Data-Free Agent Co-evolution
@@ -274,6 +318,8 @@ Environment-adjudicated rewards (code tests, search, games) without online human
   <a href="https://arxiv.org/pdf/2511.00602?"><img src="https://img.shields.io/badge/arxiv-2511.00602-silver" alt="Paper"></a>
 - AgentSynth: Scalable Task Generation for Generalist Computer-Use Agents
   <a href="https://arxiv.org/pdf/2506.14205?"><img src="https://img.shields.io/badge/arxiv-2506.14205-silver" alt="Paper"></a>
+  <a href="https://github.com/sunblaze-ucb/AgentSynth"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/sunblaze-ucb/AgentSynth"><img src="https://img.shields.io/github/stars/sunblaze-ucb/AgentSynth" alt="stars"></a>
 
 ### Environment Construction & Agentic Experience
 
@@ -284,26 +330,40 @@ Environment-adjudicated rewards (code tests, search, games) without online human
   <a href="https://huggingface.co/collections/OpenGVLab/zerogui-68388cb7dbf608133c4b5fb2"><img src="https://img.shields.io/badge/huggingface-yellow"></a>
 - SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience
   <a href="https://arxiv.org/pdf/2508.04700?"><img src="https://img.shields.io/badge/arxiv-2508.04700-silver" alt="Paper"></a>
+  <a href="https://github.com/SunzeY/SEAgent"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/SunzeY/SEAgent"><img src="https://img.shields.io/github/stars/SunzeY/SEAgent" alt="stars"></a>
 - MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent
   <a href="https://arxiv.org/pdf/2507.02259?"><img src="https://img.shields.io/badge/arxiv-2507.02259-silver" alt="Paper"></a>
+  <a href="https://github.com/BytedTsinghua-SIA/MemAgent"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/BytedTsinghua-SIA/MemAgent"><img src="https://img.shields.io/github/stars/BytedTsinghua-SIA/MemAgent" alt="stars"></a>
 - Voyager: An Open-Ended Embodied Agent with Large Language Models
   <a href="https://arxiv.org/pdf/2305.16291?"><img src="https://img.shields.io/badge/arxiv-2305.16291-silver" alt="Paper"></a>
+  <a href="https://github.com/MineDojo/Voyager"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/MineDojo/Voyager"><img src="https://img.shields.io/github/stars/MineDojo/Voyager" alt="stars"></a>
 - Eureka: Human-Level Reward Design via Coding Large Language Models
   <a href="https://arxiv.org/pdf/2310.12931?"><img src="https://img.shields.io/badge/arxiv-2310.12931-silver" alt="Paper"></a>
+  <a href="https://github.com/eureka-research/Eureka"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/eureka-research/Eureka"><img src="https://img.shields.io/github/stars/eureka-research/Eureka" alt="stars"></a>
 - Genie: Generative Interactive Environments
   <a href="https://arxiv.org/pdf/2402.15391?"><img src="https://img.shields.io/badge/arxiv-2402.15391-silver" alt="Paper"></a>
 - PAIRED: Emergent Complexity and Zero-shot Transfer via Unsupervised Environment Design
   <a href="https://arxiv.org/pdf/2012.02096?"><img src="https://img.shields.io/badge/arxiv-2012.02096-silver" alt="Paper"></a>
 - Agent World Model: Infinity Synthetic Environments for Agentic RL
   <a href="https://arxiv.org/pdf/2602.10090?"><img src="https://img.shields.io/badge/arxiv-2602.10090-silver" alt="Paper"></a>
+  <a href="https://github.com/Snowflake-Labs/agent-world-model"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/Snowflake-Labs/agent-world-model"><img src="https://img.shields.io/github/stars/Snowflake-Labs/agent-world-model" alt="stars"></a>
 - ScaleEnv: Scaling Environment Synthesis from Scratch for Generalist Tool-Use Agents
   <a href="https://arxiv.org/pdf/2602.06820?"><img src="https://img.shields.io/badge/arxiv-2602.06820-silver" alt="Paper"></a>
 - CuES: Curiosity-driven and Environment-grounded Synthesis for Agentic RL
   <a href="https://arxiv.org/pdf/2512.01311?"><img src="https://img.shields.io/badge/arxiv-2512.01311-silver" alt="Paper"></a>
+  <a href="https://github.com/modelscope/AgentEvolver"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/modelscope/AgentEvolver"><img src="https://img.shields.io/github/stars/modelscope/AgentEvolver" alt="stars"></a>
 - EvoEnv: Self-Evolving Reasoning RL via Verifiable Environment Synthesis
   <a href="https://arxiv.org/pdf/2605.14392?"><img src="https://img.shields.io/badge/arxiv-2605.14392-silver" alt="Paper"></a>
 - Don't Just Fine-tune the Agent, Tune the Environment
   <a href="https://arxiv.org/pdf/2510.10197?"><img src="https://img.shields.io/badge/arxiv-2510.10197-silver" alt="Paper"></a>
+  <a href="https://github.com/inclusionAI/AWorld-RL"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/inclusionAI/AWorld-RL"><img src="https://img.shields.io/github/stars/inclusionAI/AWorld-RL" alt="stars"></a>
 
 ---
 
@@ -313,26 +373,42 @@ Environment-adjudicated rewards (code tests, search, games) without online human
 
 - Absolute Zero: Reinforced Self-Play Reasoning with Zero Data (AZR)
   <a href="https://arxiv.org/pdf/2505.03335?"><img src="https://img.shields.io/badge/arxiv-2505.03335-silver" alt="Paper"></a>
+  <a href="https://github.com/LeapLabTHU/Absolute-Zero-Reasoner"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/LeapLabTHU/Absolute-Zero-Reasoner"><img src="https://img.shields.io/github/stars/LeapLabTHU/Absolute-Zero-Reasoner" alt="stars"></a>
 - R-Zero: Self-Evolving Reasoning LLM from Zero Data
   <a href="https://arxiv.org/pdf/2508.05004?"><img src="https://img.shields.io/badge/arxiv-2508.05004-silver" alt="Paper"></a>
+  <a href="https://github.com/Chengsong-Huang/R-Zero"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/Chengsong-Huang/R-Zero"><img src="https://img.shields.io/github/stars/Chengsong-Huang/R-Zero" alt="stars"></a>
 - Language Self-Play For Data-Free Training (LSP)
   <a href="https://arxiv.org/pdf/2412.16720?"><img src="https://img.shields.io/badge/arxiv-2412.16720-silver" alt="Paper"></a>
 - Co-Evolving LLM Coder and Unit Tester via Reinforcement Learning (CURE)
   <a href="https://arxiv.org/pdf/2506.03136?"><img src="https://img.shields.io/badge/arxiv-2506.03136-silver" alt="Paper"></a>
+  <a href="https://github.com/Gen-Verse/CURE"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/Gen-Verse/CURE"><img src="https://img.shields.io/github/stars/Gen-Verse/CURE" alt="stars"></a>
 - Self-Challenging Language Model Agents
   <a href="https://arxiv.org/pdf/2506.01716?"><img src="https://img.shields.io/badge/arxiv-2506.01716-silver" alt="Paper"></a>
 - SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn RL
   <a href="https://arxiv.org/pdf/2506.24119?"><img src="https://img.shields.io/badge/arxiv-2506.24119-silver" alt="Paper"></a>
+  <a href="https://github.com/spiral-rl/spiral"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/spiral-rl/spiral"><img src="https://img.shields.io/github/stars/spiral-rl/spiral" alt="stars"></a>
 - POET: Paired Open-Ended Trailblazer
   <a href="https://arxiv.org/pdf/1901.01753?"><img src="https://img.shields.io/badge/arxiv-1901.01753-silver" alt="Paper"></a>
+  <a href="https://github.com/uber-research/poet"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/uber-research/poet"><img src="https://img.shields.io/github/stars/uber-research/poet" alt="stars"></a>
 - OMNI-EPIC: Open-endedness via Models of Human Notions of Interestingness with Environments Programmed in Code
   <a href="https://arxiv.org/pdf/2405.15568?"><img src="https://img.shields.io/badge/arxiv-2405.15568-silver" alt="Paper"></a>
+  <a href="https://github.com/MaxenceFaldor/Omni-EPIC"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/MaxenceFaldor/Omni-EPIC"><img src="https://img.shields.io/github/stars/MaxenceFaldor/Omni-EPIC" alt="stars"></a>
 - GenEnv: Difficulty-Aligned Co-Evolution Between LLM Agents and Environment Simulators
   <a href="https://arxiv.org/pdf/2512.19682?"><img src="https://img.shields.io/badge/arxiv-2512.19682-silver" alt="Paper"></a>
+  <a href="https://github.com/Gen-Verse/GenEnv"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/Gen-Verse/GenEnv"><img src="https://img.shields.io/github/stars/Gen-Verse/GenEnv" alt="stars"></a>
 - Agent-World: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence
   <a href="https://arxiv.org/pdf/2604.18292?"><img src="https://img.shields.io/badge/arxiv-2604.18292-silver" alt="Paper"></a>
 - Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents
   <a href="https://arxiv.org/pdf/2505.22954?"><img src="https://img.shields.io/badge/arxiv-2505.22954-silver" alt="Paper"></a>
+  <a href="https://github.com/jennyzzt/dgm"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/jennyzzt/dgm"><img src="https://img.shields.io/github/stars/jennyzzt/dgm" alt="stars"></a>
 
 ---
 
@@ -380,6 +456,8 @@ GPQA ([2311.12022](https://arxiv.org/pdf/2311.12022?)) · HLE ([2501.14249](http
   <a href="https://github.com/THU-KEG/RM-Bench"><img src="https://img.shields.io/github/stars/THU-KEG/RM-Bench" alt="stars"></a>
 - ViLBench
   <a href="https://arxiv.org/pdf/2503.20271?"><img src="https://img.shields.io/badge/arxiv-2503.20271-silver" alt="Paper"></a>
+  <a href="https://github.com/UCSC-VLAA/ViLBench"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
+  <a href="https://github.com/UCSC-VLAA/ViLBench"><img src="https://img.shields.io/github/stars/UCSC-VLAA/ViLBench" alt="stars"></a>
 - Socratic-PRMBench
   <a href="https://arxiv.org/pdf/2505.23474?"><img src="https://img.shields.io/badge/arxiv-2505.23474-silver" alt="Paper"></a>
   <a href="https://github.com/Xiang-Li-oss/Socratic-PRMBench"><img src="https://img.shields.io/badge/-github-teal?logo=github" alt="github"></a>
