@@ -1,10 +1,10 @@
 # Awesome-Scaling-LRM-Beyond-Human-Supervision
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/visitworld123/Awesome-Scaling-LRM-Beyond-Verifiable-Truths?style=social)](https://github.com/visitworld123/Awesome-Scaling-LRM-Beyond-Verifiable-Truths)
-[![GitHub](https://img.shields.io/badge/-github-teal?logo=github)](https://github.com/visitworld123/Awesome-Scaling-LRM-Beyond-Verifiable-Truths)
-[![arXiv](https://img.shields.io/badge/Survey-Coming_Soon-b31b1b.svg)](#-citation)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/visitworld123/Awesome-Scaling-LRM-Beyond-Verifiable-Truths/pulls)
+[![GitHub stars](https://img.shields.io/github/stars/visitworld123/Awesome-Scaling-LRM-Beyond-Human-Supervision?style=social)](https://github.com/visitworld123/Awesome-Scaling-LRM-Beyond-Human-Supervision)
+[![GitHub](https://img.shields.io/badge/-github-teal?logo=github)](https://github.com/visitworld123/Awesome-Scaling-LRM-Beyond-Human-Supervision)
+[![arXiv](https://img.shields.io/badge/arXiv-2608.31075-b31b1b.svg)](https://arxiv.org/abs/2608.31075)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/visitworld123/Awesome-Scaling-LRM-Beyond-Human-Supervision/pulls)
 
 > Companion repository for the survey  
 > **Scaling Large Reasoning Models beyond Human Supervision: A Path toward Superintelligence**
@@ -16,6 +16,7 @@ A curated list of papers, code, and benchmarks from the survey, organized by the
 ## 📢 News
 
 - **2026-08** Expanded coverage to survey papers across **L0–L4**, and added **Figure 1** (receding-supervision ladder).
+- **2026-08** Survey preprint released on [arXiv:2608.31075](https://arxiv.org/abs/2608.31075).
 - Contributions welcome — place each work under its **primary** ladder level.
 
 ---
@@ -732,9 +733,12 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 ```bibtex
 @article{yang2026scaling,
   title   = {Scaling Large Reasoning Models beyond Human Supervision: A Path toward Superintelligence},
-  author  = {Yang, Zhiqin and Fu, Jingwen and Liu, Yuhan and Liu, Hengyu and Zhang, Yonggang and Cao, Kainan and Zhang, Zizhuo and Li, Chenxin and Yuan, Ruibin and Pan, Jiahao and Sun, Jiankai and Lin, Yunlong and Zhang, Zhenyuan and Xiong, Jing and Li, Yibo and Lin, Sida and Xue, Wei and Han, Bo and Guo, Yike},
+  author  = {Yang, Zhiqin and Fu, Jingwen and Liu, Yuhan and Liu, Hengyu and Zhang, Yonggang and Cao, Kainan and Zhang, Zizhuo and Li, Chenxin and Yuan, Ruibin and Pan, Jiahao and Sun, Jiankai and Zhang, Zhenyuan and Li, Yibo and Lin, Yunlong and Xiong, Jing and Lin, Sida and Han, Bo and Xue, Wei and Guo, Yike},
   year    = {2026},
-  note    = {Survey; companion repository: https://github.com/visitworld123/Awesome-Scaling-LRM-Beyond-Verifiable-Truths}
+  journal = {arXiv preprint arXiv:2608.31075},
+  doi     = {10.48550/arXiv.2608.31075},
+  url     = {https://arxiv.org/abs/2608.31075},
+  note    = {Survey; companion repository: https://github.com/visitworld123/Awesome-Scaling-LRM-Beyond-Human-Supervision}
 }
 ```
 
@@ -742,4 +746,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=visitworld123/Awesome-Scaling-LRM-Beyond-Verifiable-Truths&type=Date)](https://star-history.com/#visitworld123/Awesome-Scaling-LRM-Beyond-Verifiable-Truths&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=visitworld123/Awesome-Scaling-LRM-Beyond-Human-Supervision&type=Date)](https://star-history.com/#visitworld123/Awesome-Scaling-LRM-Beyond-Human-Supervision&Date)
